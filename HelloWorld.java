@@ -4,6 +4,7 @@ class HelloWorld{
      System.out.println("Build triggered automatically after push event!");
      System.out.println("Build triggered automatically after push event2!");
      System.out.println("Build triggered automatically after push event3... webhook using ultrahook");
-     System.out.println("Build triggered automatically after push event4..... webhook using ultrahook");    
+     System.out.println("Build triggered automatically after push event4..... webhook using ultrahook"); 
+     System.out.println("Build triggered automatically after push event5... webhook using ultrahook");   
 }  
 }  
